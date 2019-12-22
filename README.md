@@ -1,6 +1,6 @@
 # GumBall_final
 gumBalls
-代码储存在zip压缩包中
+代码储存在GumBalls2.zip压缩包中
 # 主要分为Game System Sound Assert四个文件夹
 ## Game文件夹为主要游戏代码
 ### Floor.swift文件为地板系统，主要为每个地板的属性以及一些地板动作的代码
